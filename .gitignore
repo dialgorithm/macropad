@@ -30,3 +30,7 @@ fp-info-cache
 *.xml
 *.csv
 !/bom.csv
+
+.history
+**/.DS_Store
+.DS_Store
