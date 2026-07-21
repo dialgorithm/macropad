@@ -10,8 +10,7 @@ Designed using KiCad.
 
 | Schematic                          | PCB Layout             | 3D PCB                     |
 | ---------------------------------- | ---------------------- | -------------------------- |
-| ![schematic](images/schematic.jpg) | ![pcb](images/pcb.jpg) | ![pcb3d](images/pcb3d.jpg) |
-| Circuit schematic                  | PCB layout             | 3D PCB render              |
+| ![schematic](images/schematic.png) | ![pcb](images/pcb.png) | ![pcb3d](images/pcb3d.png) |
 
 ## CAD
 
@@ -19,8 +18,7 @@ I am using cnc'd acrylic transparent sheets to keep a minimal and clean look.
 
 | Top View                   | Side View                    | Bottom View                      |
 | -------------------------- | ---------------------------- | -------------------------------- |
-| ![3dtop](images/3dtop.jpg) | ![3dside](images/3dside.jpg) | ![3dbottom](images/3dbottom.jpg) |
-| Top view                   | Side view                    | Bottom view                      |
+| ![3dtop](images/3dtop.png) | ![3dside](images/3dside.png) | ![3dbottom](images/3dbottom.png) |
 
 ## BOM
 
