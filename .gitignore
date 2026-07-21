@@ -32,5 +32,4 @@ fp-info-cache
 !/bom.csv
 
 .history
-**/.DS_Store
 .DS_Store
